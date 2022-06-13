@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shroomskiii
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Elixir/Phoenix
+- 📫 How to reach me bloodfeniks@gmail.com
