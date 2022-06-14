@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shroomskiii
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Aleksandr(@Shroomskiii) 
+- 👀 I’m interested in back-end and ski :) 
 - 🌱 I’m currently learning Elixir/Phoenix
 - 📫 How to reach me bloodfeniks@gmail.com
